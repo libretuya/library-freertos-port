@@ -1,0 +1,5 @@
+{
+  "name": "library-freertos-port",
+  "version": "2023.03.12",
+  "description": "FreeRTOS ports"
+}
